@@ -1,3 +1,6 @@
+// This is contact management system
+// author:-- Rakibul hasan
+
 #include<iostream>
 #include<fstream>
 #include<windows.h>
